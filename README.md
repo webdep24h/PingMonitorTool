@@ -72,3 +72,6 @@ PingMonitor/
 
 ## Chi tiết cách viết ứng dụng
 https://blog.webdep24h.com/2024/11/ping-monitor.html
+
+## Mã nguồn
+https://github.com/webdep24h/ping_monitor
