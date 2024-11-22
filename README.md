@@ -68,8 +68,7 @@ PingMonitor/
     {"host": "192.168.1.1", "name": "Router"},
     {"host": "google.com", "name": "Google"}
   ]
- ```
-
+   ```
 
 ## Chi tiết cách viết ứng dụng
 https://blog.webdep24h.com/2024/11/ping-monitor.html
