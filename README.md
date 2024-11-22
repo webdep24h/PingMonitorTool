@@ -19,6 +19,7 @@ Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorT
 
 ![Ping](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor.png)
 
+![Bot](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/bot.png)
 
 ### 📂 Cấu trúc thư mục
 ```plaintext
